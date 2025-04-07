@@ -16,6 +16,8 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+
+          리액트로 포폴 시작
         </a>
       </header>
     </div>
